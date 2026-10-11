@@ -5,7 +5,7 @@ A small star-shaped desk pet. A tiny OLED screen shows a character that wanders 
 
 ![Starbie PCB, 3D view](pcb-3d.png)
 
-![Starbie PCB, 3D view from another angle](pcb-3d(2).png)
+![Starbie PCB, 3D view from another angle](pcb-3d (2).png)
 
 
 ## What it does
