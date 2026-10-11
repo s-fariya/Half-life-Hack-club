@@ -1,0 +1,7 @@
+Reference,Part,Quantity,Notes
+U1,XIAO ESP32-C3,1,Microcontroller
+J1,0.96 inch 128x64 I2C OLED (SSD1306),1,Screen
+J2,MPU6050 module (8 pin),1,Motion sensor
+U2,DHT11,1,Temperature and humidity sensor
+"SW1, SW2",Cherry MX style switch,2,Buttons
+R1,10k resistor (through hole),1,Pull-up on DHT11 data
