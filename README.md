@@ -57,7 +57,7 @@ The OLED and the MPU6050 share the same two I2C wires. Everything runs on 3.3V, 
 - `MyProject.kicad_pro`: KiCad project file
 - `gerbers.zip`: gerber and drill files, ready to send to a PCB manufacturer
 - `Firmware/Starbie/Starbie.ino`: Arduino starter code from the guide (its pins already match my board)
-- - `Firmware/Starbie/Starbie.ino`: Arduino starter code from the guide (its pins already match my board)
+- `Firmware/Starbie/Starbie.ino`: Arduino starter code from the guide (its pins already match my board)
 
 ## Status
 
