@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15h | 2 |
+| Week 1 | Tier 1 | 14h | 2 |
 
 ## Contents
 
@@ -55,7 +55,7 @@ Next:  follow the guide's next steps: assign footprints to every part, then plac
 
 ### 2026-10-11 – ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
 
-**9h**
+**8h**
 
 ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
 
