@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 16h | 3 |
+| Week 1 | Tier 1 | 18h | 3 |
 
 ## Contents
 
 1. [2026-10-09 – October 9: Drew the whole schematic for my Starbie in KiCad](#2026-10-09-october-9-drew-the-whole-schematic-for-my-starbie)
-2. [2026-10-11 – ![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)](#2026-10-11-screenshot-2026-10-11-013843httpshalflifehackclub)
+2. [2026-10-11 – Starbie: PCB layout in KiCad](#2026-10-11-starbie-pcb-layout-in-kicad)
 3. [2026-10-11 – ![Screenshot 2026-10-12 012023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/7cb066e1b16b8582f37d98c1d5ff2d0311bee6a0375bee0abef63e25e2066fca.png)](#2026-10-11-screenshot-2026-10-12-012023httpshalflifehackclub)
 
 ## Design
@@ -54,13 +54,11 @@ Next:  follow the guide's next steps: assign footprints to every part, then plac
 
 ![Screenshot 2026-10-09 213134](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/d98f90f23b396a58efef33eb5faa72aba208903482ab12f22e6eb5f16cc58018.png)
 
-### 2026-10-11 – ![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
+### 2026-10-11 – Starbie: PCB layout in KiCad
 
-**6h**
+**8h**
 
-![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
-
- Starbie: PCB layout in KiCad
+Starbie: PCB layout in KiCad
 
 With the schematic done, I moved on to the actual board, following the Hack Club Starbie Week 1 guide. I'd never laid out a PCB before, so most of the time went into working out how KiCad's PCB editor behaves.
 
@@ -69,6 +67,10 @@ First I assigned a footprint to each of the 7 parts (the XIAO, OLED header, MPU6
 Then I drew a custom star-shaped outline on the Edge.Cuts layer, routed the wires on the copper layers, and added a GND ground pour so all the ground pins connect together.
 
 My first pass gave me 24 DRC errors. Some wires were touching each other, and my star outline had gaps and overlaps because I'd traced it with lots of little lines. I cleaned up the outline, redrew the wires that were touching, and got it down to just 2 courtyard errors from the supplied OLED footprint, which the guide says are fine to ignore.
+
+![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
+
+![Screenshot 2026-10-11 223611](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/75f576cb0b436033f3ac3e08b83699713107b1bb6ff73218f2183b5dc7fc0ac2.png)
 
 ![Screenshot 2026-10-11 200331](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/b4f33a5de53aadb6a9455222283c16831d994c2a2b25b963237d0939a2924194.png)
 
@@ -79,6 +81,10 @@ My first pass gave me 24 DRC errors. Some wires were touching each other, and my
 ![pcb-3d](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/eb4bb17836105a8d2e0dc1711236c82dc62adc0cade78cecb21e9fe37e0bf46e.png)
 
 ![pcb-3d-2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/6aaa5c73509e6aa3f1287b07a38003e8ece199429572d4a0355bcef433932677.png)
+
+![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
+
+![Screenshot 2026-10-12 032613](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/19cbb916092eed46aae33a822f56dea1293134d6d1c6da9077dcb26b8549bb09.png)
 
 ### 2026-10-11 – ![Screenshot 2026-10-12 012023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/7cb066e1b16b8582f37d98c1d5ff2d0311bee6a0375bee0abef63e25e2066fca.png)
 
