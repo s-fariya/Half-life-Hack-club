@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14h | 2 |
+| Week 1 | Tier 1 | 15h | 2 |
 
 ## Contents
 
 1. [2026-10-09 – October 9: Drew the whole schematic for my Starbie in KiCad](#2026-10-09-october-9-drew-the-whole-schematic-for-my-starbie)
-2. [2026-10-11 – Finished my Starbie: PCB design, gerbers, firmware and repo](#2026-10-11-finished-my-starbie-pcb-design-gerbers-firmware-a)
+2. [2026-10-11 – ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)](#2026-10-11-screenshot-2026-10-11-211013httpshalflifehackclub)
 
 ## Design
 
@@ -53,9 +53,11 @@ Next:  follow the guide's next steps: assign footprints to every part, then plac
 
 ![Screenshot 2026-10-09 213134](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/d98f90f23b396a58efef33eb5faa72aba208903482ab12f22e6eb5f16cc58018.png)
 
-### 2026-10-11 – Finished my Starbie: PCB design, gerbers, firmware and repo
+### 2026-10-11 – ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
 
-**8h**
+**9h**
+
+![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
 
 Finished my Starbie: PCB design, gerbers, firmware and repo
 
