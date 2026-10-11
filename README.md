@@ -2,9 +2,9 @@
 
 A small star-shaped desk pet. A tiny OLED screen shows a character that wanders around, and it reacts when you tilt the board, shake it, or press its two buttons. I designed the whole PCB myself in KiCad, following the Hack Club Starbie Week 1 guide.
 
-![Starbie PCB, 3D view](pcb-3d)
+![Starbie PCB, 3D view](pcb-3d.[png)
 
-![Starbie PCB, 3D view from another angle](pcb-3d-2)
+![Starbie PCB, 3D view from another angle](pcb-3d-2.png)
 
 
 ## What it does
