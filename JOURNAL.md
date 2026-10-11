@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14h | 2 |
+| Week 1 | Tier 1 | 12h | 2 |
 
 ## Contents
 
 1. [2026-10-09 – October 9: Drew the whole schematic for my Starbie in KiCad](#2026-10-09-october-9-drew-the-whole-schematic-for-my-starbie)
-2. [2026-10-11 – ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)](#2026-10-11-screenshot-2026-10-11-211013httpshalflifehackclub)
+2. [2026-10-11 – ![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)](#2026-10-11-screenshot-2026-10-11-013843httpshalflifehackclub)
 
 ## Design
 
@@ -53,36 +53,28 @@ Next:  follow the guide's next steps: assign footprints to every part, then plac
 
 ![Screenshot 2026-10-09 213134](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/d98f90f23b396a58efef33eb5faa72aba208903482ab12f22e6eb5f16cc58018.png)
 
-### 2026-10-11 – ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
+### 2026-10-11 – ![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
 
-**8h**
+**6h**
+
+![Screenshot 2026-10-11 013843](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/32e9529352436b5c077e080b0a71d7d8931203d0e3e22ab8c9ea78d0cf58ff93.png)
+
+ Starbie: PCB layout in KiCad
+
+With the schematic done, I moved on to the actual board, following the Hack Club Starbie Week 1 guide. I'd never laid out a PCB before, so most of the time went into working out how KiCad's PCB editor behaves.
+
+First I assigned a footprint to each of the 7 parts (the XIAO, OLED header, MPU6050 header, DHT11, resistor and two switches) and imported everything into the PCB editor. All the parts landed in one messy pile, so I spread them out and arranged them.
+
+Then I drew a custom star-shaped outline on the Edge.Cuts layer, routed the wires on the copper layers, and added a GND ground pour so all the ground pins connect together.
+
+My first pass gave me 24 DRC errors. Some wires were touching each other, and my star outline had gaps and overlaps because I'd traced it with lots of little lines. I cleaned up the outline, redrew the wires that were touching, and got it down to just 2 courtyard errors from the supplied OLED footprint, which the guide says are fine to ignore.
+
+![Screenshot 2026-10-11 200331](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/b4f33a5de53aadb6a9455222283c16831d994c2a2b25b963237d0939a2924194.png)
 
 ![Screenshot 2026-10-11 211013](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/9ad751dc0bdee5b59571eb1338c7061e396c5558985237d439c6b9ba236d9b6c.png)
-
-Finished my Starbie: PCB design, gerbers, firmware and repo
-
-I followed the Hack Club Starbie Week 1 guide to design my own star-shaped desk pet in KiCad. I had never used KiCad before, so most of the time went into learning how it works.
-
-Schematic: I wired a XIAO ESP32-C3 to an OLED screen, an MPU6050 motion sensor, a DHT11 temperature sensor and two buttons, using net labels to connect everything. I had a typo in one label (GPIO2 was spelled GBIO2), which left two pins unconnected, and I found it in the Nets list. I also had SDA and SCL swapped at first, and fixed it so my pins match the starter code.
-
-PCB layout: I assigned footprints, laid out the parts, drew a custom star-shaped outline, routed the wires and added a GND ground pour. My first routing had wires touching each other and my star outline had gaps and overlaps, which gave 24 DRC errors. I fixed them by cleaning up the outline and redrawing wires, and got down to only 2 courtyard errors from the supplied OLED footprint, which the guide says to ignore.
-
-Files: I exported the gerber and drill files and zipped them. I also put the KiCad project, the gerbers, a README with pictures, a BOM and the starter firmware into my GitHub repo. The pins in the firmware already match my board, so I didn't change the code.
-
-Last I put everything in my GitHub repo so the project is easy to follow.
 
 ![pcb-editor](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/0433a0f9ee00f28966edbe9eac120f27bcc289ebfac50e16a80d01e11699280b.png)
 
 ![pcb-3d](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/eb4bb17836105a8d2e0dc1711236c82dc62adc0cade78cecb21e9fe37e0bf46e.png)
 
 ![pcb-3d-2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/6aaa5c73509e6aa3f1287b07a38003e8ece199429572d4a0355bcef433932677.png)
-
-![Screenshot 2026-10-12 000749](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/d82849886e828144a6b8ebdb5975b26f62efa21d08a4e20977d48b5f5797cb85.png)
-
-![Screenshot 2026-10-11 200331](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/b4f33a5de53aadb6a9455222283c16831d994c2a2b25b963237d0939a2924194.png)
-
-![Screenshot 2026-10-12 025612](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/7680d3be4deee5d9a4e303e3e8327c8a22d9f1ed2fa9f19dcf4fcda540e6e900.png)
-
-![Screenshot 2026-10-12 012023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/7cb066e1b16b8582f37d98c1d5ff2d0311bee6a0375bee0abef63e25e2066fca.png)
-
-![Screenshot 2026-10-12 030001](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CcNgHicScV3RySnfJCR8IKQUl3bwwvTx/1a1ce9269e5809b7ad31903766b3079088994d72041a3433f0e49cf75a9cda74.png)
