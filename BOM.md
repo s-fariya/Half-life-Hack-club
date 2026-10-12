@@ -19,7 +19,7 @@
 | [DHT11 Sensor](https://www.aliexpress.com/item/1005008818897051.html?spm=a2g0o.cart.0.0.59e938daalxoKH&mp=1&pdp_npi=6%40dis%21PKR%21PKR+693.58%21PKR+693.58%21%21PKR+693.58%21%21%21%4021410daa17917660429223396e1008%2112000046802736833%21ct%21PK%21-1%21%211%210%21) | Temperature & Humidity | 1 | $2.50 | $2.50 | [AliExpress](https://www.aliexpress.com/item/1005008818897051.html?spm=a2g0o.cart.0.0.59e938daalxoKH&mp=1&pdp_npi=6%40dis%21PKR%21PKR+693.58%21PKR+693.58%21%21PKR+693.58%21%21%21%4021410daa17917660429223396e1008%2112000046802736833%21ct%21PK%21-1%21%211%210%21) |
 | [1/4W 10K Resistors](https://www.aliexpress.com/item/32660635741.html?spm=a2g0o.cart.0.0.59e938daalxoKH&mp=1&pdp_npi=6%40dis%21PKR%21PKR+610.80%21PKR+607.65%21%21PKR+607.65%21%21%21%4021410daa17917660429223396e1008%2165409850944%21ct%21PK%21-1%21%211%210%21) | Pull-up Resistors | 1 | $2.19 | $2.19 | [AliExpress](https://www.aliexpress.com/item/32660635741.html?spm=a2g0o.cart.0.0.59e938daalxoKH&mp=1&pdp_npi=6%40dis%21PKR%21PKR+610.80%21PKR+607.65%21%21PKR+607.65%21%21%21%4021410daa17917660429223396e1008%2165409850944%21ct%21PK%21-1%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$26.26** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.26** | — |
+| **Tax & shipping** | — | — | — | **$2.25** | — |
+| **Total** | — | — | — | **$28.51** | — |
 
-$3.74 left of the tier's funding.
+$1.49 left of the tier's funding.
