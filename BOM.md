@@ -20,7 +20,7 @@
 | [1/4W 10K Resistors](https://www.aliexpress.us/item/2251832474320989.html?spm=a2g0o.cart.0.0.72aa38daveiZNq&mp=1&pdp_npi=6%40dis%21USD%21USD+1.60%21USD+1.60%21%21USD+1.60%21%21%21%402141397017917760376944349e0fc1%2165409850944%21ct%21US%21-1%21%211%210%21&_gl=1*17danwo*_gcl_au*MTI4NjgxMDY1OC4xNzkxNzczMDcy*_ga*NzM5MTMzNDY3LjE3OTE3NjI2MTk.*_ga_VED1YSGNC7*czE3OTE3NzMwNzIkbzEkZzEkdDE3OTE3NzY0OTAkajMzJGwwJGgw&gatewayAdapt=glo2usa) | Pull-up Resistors | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.us/item/2251832474320989.html?spm=a2g0o.cart.0.0.72aa38daveiZNq&mp=1&pdp_npi=6%40dis%21USD%21USD+1.60%21USD+1.60%21%21USD+1.60%21%21%21%402141397017917760376944349e0fc1%2165409850944%21ct%21US%21-1%21%211%210%21&_gl=1*17danwo*_gcl_au*MTI4NjgxMDY1OC4xNzkxNzczMDcy*_ga*NzM5MTMzNDY3LjE3OTE3NjI2MTk.*_ga_VED1YSGNC7*czE3OTE3NzMwNzIkbzEkZzEkdDE3OTE3NzY0OTAkajMzJGwwJGgw&gatewayAdapt=glo2usa) |
 | [Custom PCB (Starbie)](https://www.jlcpcb.com/) | The circuit board itself made from Gerber files | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$25.99** | — |
-| **Tax & shipping** | — | — | — | **$2.26** | — |
-| **Total** | — | — | — | **$28.25** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$25.99** | — |
 
-$1.75 left of the tier's funding.
+$4.01 left of the tier's funding.
