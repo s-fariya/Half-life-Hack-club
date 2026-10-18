@@ -1,4 +1,6 @@
-// Based on the Starbie firmware by SharKingStudios (MIT license): https://github.com/SharKingStudios/Starbie/*
+// Based on the Starbie firmware by SharKingStudios (MIT license): https://github.com/SharKingStudios/Starbie
+
+/*
   Starbie: a tiny motion-controlled digital pet
 
   This is intentionally one file. Open this .ino file in Arduino IDE, edit
