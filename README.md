@@ -64,5 +64,6 @@ The OLED and the MPU6050 share the same two I2C wires. Everything runs on 3.3V, 
 The PCB design is finished and the gerber files are exported. I have not built the board yet, so the firmware is untested on my hardware. Next steps are getting the board made, assembling it, and uploading the code.
 
 ## Credits
+Firmware and project design are based on the Starbie guide from Hack Club by SharKingStudios (MIT license): https://github.com/SharKingStudios/Starbie
+I built the KiCad schematic and PCB layout following the guide.
 
-Based on the Starbie Week 1 guide from Hack Club.
