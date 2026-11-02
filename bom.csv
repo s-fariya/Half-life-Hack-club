@@ -1,9 +1,9 @@
 Part,Description,Qty,Unit Price ($),Total Price ($),Vendor,Link
 XIAO ESP32-C3,Microcontroller,1,3.24,3.24,Daraz,https://www.daraz.pk/products/i1966086027.html
-GY-521 MPU-6050,6-Axis Gyro / Accelerometer,1,1.98,1.98,Daraz,https://www.daraz.pk/products/i254765267.html
-0.96" OLED Display,I2C Display Module (128x64),1,2.52,2.52,Daraz,https://www.daraz.pk/products/i1966086027.html
+GY-521 MPU-6050,"6-Axis Gyro / Accelerometer",1,1.98,1.98,Daraz,https://www.daraz.pk/products/i254765267.html
+0.96 inch OLED Display,"I2C Display Module (128x64)",1,2.52,2.52,Daraz,https://www.daraz.pk/products/i1966086027.html
 Cherry MX Switches,Key Switches,1,3.19,3.19,AliExpress,https://www.aliexpress.us/item/3256810219228347.html
 DHT11 Sensor,Temperature & Humidity Sensor,1,1.49,1.49,Daraz,https://www.daraz.pk/products/i254765267.html
 10K Resistors (1/4W),Pull-up Resistors,1,0.42,0.42,Daraz,https://www.daraz.pk/products/i465392816.html
-Custom PCB (Starbie),Fabricated Circuit Board,1,10.0,10.0,JLCPCB,https://www.jlcpcb.com/
-Tax & Shipping,Shipping / Fees for whole order,0,0.0,0.0,N/A,N/A
+Custom PCB (Starbie),Fabricated Circuit Board,1,10.00,10.00,JLCPCB,https://www.jlcpcb.com/
+Tax & Shipping,"Shipping / Fees for whole order",0,0.00,0.00,N/A,N/A
