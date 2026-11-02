@@ -54,13 +54,13 @@ The OLED and the MPU6050 share the same two I2C wires. Everything runs on 3.3V, 
 
 | Part | Description | Qty | Unit Price | Total Price | Vendor | Link |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **XIAO ESP32-C3** | Microcontroller | 1 | $3.24 | $3.24 | Daraz | [Buy on Daraz](https://www.daraz.pk/products/i1966086027.html) |
-| **GY-521 MPU-6050** | 6-Axis Gyro / Accelerometer | 1 | $1.98 | $1.98 | Daraz | [Buy on Daraz](https://www.daraz.pk/products/i254765267.html) |
-| **0.96 inch OLED Display** | I2C Display Module (128x64) | 1 | $2.52 | $2.52 | Daraz | [Buy on Daraz](https://www.daraz.pk/products/i1966086027.html) |
+| **XIAO ESP32-C3** | Microcontroller | 1 | $4.90 | $4.90 | Pcbx | [Buy on Pcbx]([https://www.daraz.pk/products/i1966086027.html](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)) |
+| **GY-521 MPU-6050** | 6-Axis Gyro / Accelerometer | 1 | $1.98 | $1.98 | Daraz | [Buy on Daraz](https://www.daraz.pk//products/i254765267-s1471144211.html?spm=a2o42.cart.0.0.56f77d68KNJnwu&urlFlag=true) |
+| **0.96 inch OLED Display** | I2C Display Module (128x64) | 1 | $2.52 | $2.52 | Daraz | [Buy on Daraz](https://www.daraz.pk//products/i1966086027-s14048854700.html?spm=a2o42.cart.0.0.56f77d68hnK9nB&urlFlag=true) |
 | **Cherry MX Switches** | Key Switches | 1 | $3.19 | $3.19 | AliExpress | [Buy on AliExpress](https://www.aliexpress.us/item/3256810219228347.html) |
-| **DHT11 Sensor** | Temperature & Humidity Sensor | 1 | $1.49 | $1.49 | Daraz | [Buy on Daraz](https://www.daraz.pk/products/i254765267.html) |
-| **10K Resistors (1/4W)** | Pull-up Resistors | 1 | $0.42 | $0.42 | Daraz | [Buy on Daraz](https://www.daraz.pk/products/i465392816.html) |
-| **Custom PCB (Starbie)** | Fabricated Circuit Board | 1 | $10.00 | $10.00 | JLCPCB | [JLCPCB Website](https://www.jlcpcb.com/) |
+| **DHT11 Sensor** | Temperature & Humidity Sensor | 1 | $1.49 | $1.49 | Daraz | [Buy on Daraz](https://www.daraz.pk//products/i254765267-s1471144211.html?spm=a2o42.cart.0.0.56f77d68jeWAmE&urlFlag=true) |
+| **10K Resistors (1/4W)** | Pull-up Resistors | 1 | $0.42 | $0.42 | Daraz | [Buy on Daraz]([https://www.daraz.pk/products/i465392816.html](https://www.daraz.pk//products/i465392816-s2198965661.html?spm=a2o42.cart.0.0.22717d68aTIudk&urlFlag=true)) |
+| **Custom PCB (Starbie)** | Fabricated Circuit Board | 1 | $6.44 | $6.44 | JLCPCB | [JLCPCB Website](https://www.jlcpcb.com/) |
 | **Tax & Shipping** | Shipping / Fees for whole order | 1 | $7.00 | $7.00 | — | — |
 | **Total** | | | | **$29.84** | | *(Using $29.84 of $30.00 Tier 1 Funding)* |
 
